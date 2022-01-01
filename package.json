@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "release": "standard-version --tag-prefix="
+    "release": "standard-version --tag-prefix=",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
